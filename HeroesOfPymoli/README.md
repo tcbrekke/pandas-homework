@@ -1,6 +1,15 @@
 
 
 ```python
+#Observed Trends:
+
+#Trend 1: The user base for this game is overwhelmingly male - it may be prudent to investigate why there aren't more non-male players
+#Trend 2: The user base is highly concentrated, with the majority of players being in their 20s - there may be room to grow the userbase on either side of this group, with teens between 15 and 19 appearing to be a strong area for growth
+#Trend 3: When looking to generate additional revenue, it may be best to emphasize quality over quantity - the leading revenue generators sold fewer units than the most-sold items, but generated higher revenue due to a higher cost per unit
+```
+
+
+```python
 import os
 import pandas as pd
 import warnings
